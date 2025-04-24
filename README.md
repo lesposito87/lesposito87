@@ -1,5 +1,5 @@
 # 🚀 About Me
-IT Professional experienced in deploying, maintaining and keep updated On Premise and Cloud infrastructures using an “As Code” approach with focus on Site and Services 24x7 Reliability.
+IT Professional experienced in deploying, maintaining and keep updated On Premise and Cloud infrastructures using an `As Code` approach with focus on Site and Services 24x7 Reliability.
 
 
 ## 🌐 Socials
